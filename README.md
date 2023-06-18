@@ -12,6 +12,17 @@
 
 >http:/www.semyung.ac.kr
 
+#나의 등급은?
+----
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinwoopark8)](https://solved.ac/jinwoopark8)<br/>
+
+#오늘의 손님은?
+----
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinwoopark8&count_bg=%23B2B8AE&title_bg=%23000000&icon=googlehangouts.svg&icon_color=%23FF0000&title=customer&edge_flat=false)](https://hits.seeyoufarm.com)
+
+#제가 자주 사용하는 언어는?
+----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoopark8&langs_count=8)](https://github.com/jinwoopark8/github-readme-stats)
 
 ## Badge
 <img src="<img alt="Docker" src="https://img.shields.io/badge/Docker-007AAC?style=for-the-badge&logo=Docker&logoColor=white"/>
