@@ -25,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoopark8&langs_count=8)](https://github.com/jinwoopark8/github-readme-stats)
 
 ## Badge
-<img src="<img alt="Docker" src="https://img.shields.io/badge/Docker-007AAC?style=for-the-badge&logo=Docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>, <img src="https://img.shields.io/badge/VSCODE-ffffff?style=flat-square&logo=visualstudiocode&logoColor=000000"/>, <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 
 
 # Git 용어 정의
