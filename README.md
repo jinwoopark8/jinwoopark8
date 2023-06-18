@@ -1,6 +1,13 @@
 # 2018219034 학번의 박진우 입니다....
 
 ## 2018219034 학번의 Thech Full Stacks
+- <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=TypeScript&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Spring Framwork-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Spring Boot-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+- <img src="https://img.shields.io/badge/React.JS-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Node.JS-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+- <img src="https://img.shields.io/badge/linux-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
 - java
 - Spring Framwork
 - Spring Boot
